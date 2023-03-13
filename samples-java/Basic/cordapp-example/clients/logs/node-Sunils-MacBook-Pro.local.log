@@ -1,0 +1,5 @@
+[INFO ] 2023-03-11T11:27:02,699 [background-preinit] Version - HV000001: Hibernate Validator 6.0.9.Final
+[INFO ] 2023-03-11T11:30:50,816 [background-preinit] Version - HV000001: Hibernate Validator 6.0.9.Final
+[INFO ] 2023-03-11T11:33:00,095 [background-preinit] Version - HV000001: Hibernate Validator 6.0.9.Final
+[INFO ] 2023-03-11T11:35:06,843 [background-preinit] Version - HV000001: Hibernate Validator 6.0.9.Final
+[WARN ] 2023-03-11T12:09:12,116 [Thread-3 (ActiveMQ-client-factory-threads-1471019696)] client - AMQ212004: Failed to connect to server.
